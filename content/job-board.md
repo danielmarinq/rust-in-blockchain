@@ -69,6 +69,9 @@ NEAR | Remote
 - [Low-Level Developer, Contract Runtime](https://docs.google.com/document/d/18HEwef-HDPZ2FPYfaHWpsd-kSF8E4zNpeQVulqhfFSk/edit?usp=sharing)
 - [Core Engineer](https://docs.google.com/document/d/1b5oJAM37_B2-stUsJ-xtAIsPnqMwdD0wu30ITvylCHk/edit?usp=sharing)
 
+Nexus | San Francisco, Remote
+- [Senior Rust Engineer (Nexus zkVM)](https://www.nexus.xyz/careers)
+
 Nomic Foundation | Remote (EMEA, Americas)
 - [Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/nomic.foundation/34cda712-64fc-46aa-b65d-d18f6f0c3a92)
 - [Senior Software Engineer, Compiler](https://jobs.ashbyhq.com/nomic.foundation/1ef14a5f-6035-45fc-8012-c7243c02c156)
